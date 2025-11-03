@@ -1,1 +1,1 @@
-# weather_app_api
+A beginner-level project where I learned the basics of APIs — how they send and receive data between different applications. I built a simple API and tested it to see how endpoints work. This project gave me a clear idea of how APIs are used in real-world apps.
